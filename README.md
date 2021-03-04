@@ -1,3 +1,8 @@
+This repo is for the front end of marksPortal app and is created using react. The front end was just made but not connected to the backend due to lack of time. But api gateways were made in the backend to access data.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
